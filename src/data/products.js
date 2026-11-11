@@ -3,7 +3,7 @@
 // ============================================================
 
 // WhatsApp business number: country code + number, digits only, no + or spaces
-export const WHATSAPP_NUMBER = "919486448891"; // TODO: replace with your real number
+export const WHATSAPP_NUMBER = "919003057570"; // TODO: replace with your real number
 
 export const COMPANY = {
   name: "Seamless Technologies",
@@ -13,7 +13,7 @@ export const COMPANY = {
   ],
   gstin: "33ADKFS3216P1ZQ",
   email: "support@seamlesstechnologies.in", // TODO: replace with your real email
-  phone: "+91 94864 48891", // TODO: replace with your real phone
+  phone: "+91 9003057570", // TODO: replace with your real phone
 };
 
 export function waLink(message) {
